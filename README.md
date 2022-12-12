@@ -23,9 +23,6 @@
   <a href="https://twitter.com/_kaiqueivo" target="_blank"><img height="50em" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" target="_blank"></a> 
   <a href = "mailto:kaiqueivo1011@gmail.com"><img height="50em" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-ivo-9707421a8" target="_blank"><img height="50em" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
