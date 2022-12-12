@@ -1,4 +1,4 @@
-### Olá seja bem vindo(a) ao meu perfil 👋
+### Olá, Seja Bem Vindo(a) ao meu perfil 👋
 
 <!--
 **KaiqueIvo04/KaiqueIvo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
