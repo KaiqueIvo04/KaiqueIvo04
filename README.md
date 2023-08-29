@@ -1,7 +1,7 @@
 ### Olá! Seja Bem Vindo(a) ao meu perfil ✌️
 
 - 🔭 Em busca de oportunidades
-- 📚 Ciências da Computação 5/8
+- 📚 Ciências da Computação 6/8
 
 <div style="display=flex">
   <a href="https://github.com/KaiqueIvo04">
