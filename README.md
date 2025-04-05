@@ -3,8 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=kaiqueivo04&label=Profile%20views&color=red&style=flat" alt="kaique-ivo" />
 </h1>
 
-- 🔭 Em busca de oportunidades
-- 📚 Ciências da Computação 8/8
+- 🔭 Sempre em busca de melhores oportunidades
+- 📚 Bacharel em Ciências da Computação
 
 <h2>✉️ Contatos</h2>
 <span>
